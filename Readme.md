@@ -7,8 +7,8 @@ For this challenge, assume there are 365 days in a year, 52 weeks in a year and 
 
 Important your console.log output should match the Example output format exactly, even the positions of the commas and the full stops.
 
-Example Input
+- Example Input:
 e.g. If you are 56 years old:
 
-Example output
+- Example output:
 You have 12410 days, 1768 weeks, and 408 months left.
